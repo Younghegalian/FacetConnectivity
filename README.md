@@ -11,9 +11,3 @@ Technical elucidation is provided in our published paper as follows:
 
 Lee S-Y, Lee J-W, Yang M-S, Kim D-H, Jung H-G, Ko D-C, Kim K-W. Facet Connectivity-Based Estimation Algorithm for Manufacturability of Supportless Parts Fabricated via LPBF. Materials. 2023; 16(3):1039. https://doi.org/10.3390/ma16031039
 
-Dedication to Min Seok Yang,
-
-To an exceptional junior who made a significant impact during their time with me. Your passion for learning and coding was evident in every project we worked on.
-Sharing genuine appreciation and encouragement will surely make your dedication memorable and meaningful.
-
-With gratitude,
